@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Mariia Mohyla and I'm a recent graduate with MS in Business Analytics.  I'm a passionate learner with strong expertise in machine learning and data analysis. As an early-career data analyst, I'm actively seeking an entry-level analyst position in an environment that fosters continuous learning. 
+I am a passionate learner with strong expertise in machine learning and data analysis. As an early-career data analyst, I am actively seeking an entry-level analyst position in an environment that fosters continuous learning.
 
-My curiosity for exploring and experimenting with data supported by my strong academic knowledge brings a unique blend of creativity and knowledge, resulting in compelling narratives with data. 
+My curiosity for exploring and experimenting with data, supported by my strong academic knowledge, brings a unique blend of creativity and technical skills. This combination enables me to craft compelling narratives with data.
 
-🌱 Technical skills:
-- SQL
-- R
-- Python
-- Tableau
+🌱 Technical Skills:
+SQL
+R
+Python
+Tableau
 
