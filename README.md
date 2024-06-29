@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a passionate learner with strong expertise in machine learning and data analysis. As an early-career data analyst, I am actively seeking an entry-level analyst position in an environment that fosters continuous learning.
+I am a passionate learner with strong expertise in machine learning and data analysis. As an early-career data analyst, I am actively seeking an entry-level position where I can apply my skills and grow as a data professional.
 
 My curiosity for exploring and experimenting with data, supported by my strong academic knowledge, brings a unique blend of creativity and technical skills. This combination enables me to craft compelling narratives with data.
 
