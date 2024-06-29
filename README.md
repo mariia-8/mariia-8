@@ -19,8 +19,8 @@ I am a passionate learner with strong expertise in machine learning and data ana
 My curiosity for exploring and experimenting with data, supported by my strong academic knowledge, brings a unique blend of creativity and technical skills. This combination enables me to craft compelling narratives with data.
 
 🌱 Technical Skills:
-SQL
-R
-Python
-Tableau
+- SQL
+- R
+- Python
+- Tableau
 
