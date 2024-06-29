@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub portfolio 👋
 
 <!--
 **mariia-8/mariia-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Mariia Mohyla and I'm a recent graduate with MS in Business Analytics.  I'm a passionate learner with strong expertise in machine learning and data analysis. As an early-career data analyst, I'm actively seeking an entry-level analyst position in an environment that fosters continuous learning. 
+
+My curiosity for exploring and experimenting with data supported by my strong academic knowledge brings a unique blend of creativity and knowledge, resulting in compelling narratives with data. 
+
+🌱 Technical skills:
+- SQL
+- R
+- Python
+- Tableau
+
