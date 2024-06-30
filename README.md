@@ -35,9 +35,9 @@ My curiosity for exploring and experimenting with data, supported by my strong a
 
 | Project Name | Description | Tools |
 |--------------|-------------|-------|
-| [Inventory-Forecasting-LR-RF-SVM](https://github.com/mariia-8/Inventory-Forecasting-LR-RF-SVM) | This project aims to help an online gift store with inventory planning by forecasting inventory levels for each product one month into the future | Python |
+| [Inventory-Forecasting-using-LR-RF-SVM](https://github.com/mariia-8/Inventory-Forecasting-LR-RF-SVM) | This project aims to help an online gift store with inventory planning by forecasting inventory levels for each product one month into the future | Python |
 | [Customer-segmentation-using-RFM-and-K-Means-and-revenue-prediction-using-Meta-Prophet](https://github.com/mariia-8/Customer-segmentation-using-RFM-and-K-Means-and-revenue-prediction-using-Meta-Prophet) | The goal of this project is to provide marketing insights by performing customer segmentation and forecasting revenue | Python |
-| [Analysis-of-content-virality-using-ml](https://github.com/mariia-8/Analysis-of-content-virality-using-ml) | The goal of this project is to determine the impact of positive and negative content on virality | R |
+| [Analysis-of-content-virality-using-linear-regression](https://github.com/mariia-8/Analysis-of-content-virality-using-ml) | The goal of this project is to determine the impact of positive and negative content on virality | R |
 
 
 
