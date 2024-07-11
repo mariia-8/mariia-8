@@ -31,7 +31,7 @@ My curiosity for exploring and experimenting with data, supported by my strong a
 | [Fire-Incident-Dispatch-Analysis](https://github.com/mariia-8/Fire-Incident-Dispatch-Analysis) | The project involves extracting, loading, and analyzing over 6M rows of fire incident dispatch data from NYC Open Data API by leveraging Docker, Elasticsearch, and Kibana in AWS environment | AWS, Python, Docker, Kibana, Elasticsearch |
 | [Insights-into-Movies-using-PySpark](https://github.com/mariia-8/Insights-into-Movies-using-PySpark) | The goal of this project is to provision a Spark infrastructure on AWS EMR ecosystem to load and run some exploratory data analysis using PySpark on IMDB’s dataset from Kaggle located in publicly available S3 storage | AWS, PySpark |
 | [Strategic-growth-analysis-Netflix](https://public.tableau.com/app/profile/mariiamohyla/viz/UnveilingtheValueofNetflixWhyisNetflixSuccessful/UnveilingthevalueofNetflixwhatmakesNetflixstandout) | Developed a strategic growth analysis dashboard using Tableau for a leading streaming service, incorporating market and competitive analyses, as well as audience behavior insights to identify and capitalize on growth opportunities | Tableau |
-| [Sales-report](https://github.com/mariia-8/Sales_Report_Mcdonalds) | Developed a sales analysis dashboard using Excel using McDonald's data, incorporating sales trends, customer satisfaction, sales distribution by country, and KPI analyses | Excel |
+| [Sales-report](https://github.com/mariia-8/Sales_Report_Mcdonalds) | Developed a sales analysis dashboard using McDonald's data, incorporating sales trends, customer satisfaction, sales distribution by country, and KPI analyses | Excel |
 
 ## Machine Learning Projects
 
